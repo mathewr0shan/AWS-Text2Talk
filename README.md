@@ -25,3 +25,14 @@ Deploy the Lambda function.
 (Optional) Configure API Gateway for invocation.
 
 Integrate the function into your desired application or service.
+
+## Tech Stack
+
+Python
+
+AWS lambda
+
+Amazon Polly
+
+AWS API Gateway(optional)
+
